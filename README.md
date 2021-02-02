@@ -2,11 +2,11 @@
 ![UI](danskebank.gif)
 this repository contains three sub directory
 
-- client-react : the UI of app that created with React and Apollo Client
+- client-react-apollo : the UI of app that created with React and Apollo Client
 - graphql-server : GraphQL server 
 - service-mock Express/Node js mock server
 
-## Client React
+## Client React Apollo
 it's run on port 3000 
 for 
 technologies : 
@@ -27,4 +27,4 @@ technologies
 - Express JS
 
 # How to run the project
-just clone the project and then use `npm start` for client-react and use `node index` for both service-mock and graphql-server
+just clone the project and then use `npm start` for client-react-apollo and use `node index` for both service-mock and graphql-server
